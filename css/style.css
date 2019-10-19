@@ -1,0 +1,46 @@
+.sizes{
+    background-color: grey;
+    color: black;
+    border-radius: 50%;
+}
+.dash{
+    background-color: brown;
+    height: 2px;
+    width: 3rem;
+    margin-bottom: 1rem;
+   
+}
+.price1{
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+.cart{
+    background-color: black;
+    border-color: black;
+    color:white;
+}
+.freeshipping p{
+    background-color: black;
+    color: white;
+    float: right;
+    width: 40%;
+    margin-bottom: 0;
+    font-size: 75%;
+}
+.thumbnail{
+    border: none;
+    margin-top:5rem;
+}
+.sizes{
+    padding-top: 5px;
+    padding-bottom: 4px;
+}
+.price span{
+    color:grey;
+    font-size: 12px;
+}
+
+.col-3{
+    border: 2px solid red;
+}
